@@ -12,4 +12,4 @@ php composer.phar update
 php osky.php reddit:search
 ```
 
-Total time spent so far: 4 hours and 47 minutes
+Total time spent: 9 hours and 35 minutes
