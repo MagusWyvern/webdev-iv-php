@@ -1,2 +1,1 @@
-# osky-webdev-test
-OSKY Web Developer Test Submission
+# Webdev Position Take-home Assessments
